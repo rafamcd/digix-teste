@@ -1,0 +1,4 @@
+Usuário apagado, ID: 22 - IP: 127.0.0.1
+Usuário apagado, ID: 11 - IP: 127.0.0.1
+Imagem usuário apagada, ID: 16 - IP: 127.0.0.1
+Usuário apagado, ID: 16 - IP: 127.0.0.1

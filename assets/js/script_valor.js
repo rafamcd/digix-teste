@@ -1,0 +1,23 @@
+$(document).ready(function(){
+   $('input[name=valor_adiantamento]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"});     
+   $('input[name=valor]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor2]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor3]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor4]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor5]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor6]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor7]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor8]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor9]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor10]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor11]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor12]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor13]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor14]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor15]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor16]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor17]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor18]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor19]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+   $('input[name=valor20]').mask('000.000.000.000.000,00', {reverse:true, placeholder:"0,00"}); 
+});
